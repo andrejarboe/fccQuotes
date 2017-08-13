@@ -42,7 +42,7 @@ function randomRgb() {
                     [052, 152, 219], [155, 089, 182]
                 ]
     // Get random number from 0 to 5
-    let num = Math.floor(Math.random() * 5);
+    let num = Math.floor(Math.random() * colors.length);
     let color = colors[num].toString();
     console.log(num);
     console.log(color);
