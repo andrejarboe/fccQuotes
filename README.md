@@ -1,4 +1,3 @@
-# fccQuotes
 # Random Quote Generator 
 Built with jQuery, flexbox, forismatic.com API
 
